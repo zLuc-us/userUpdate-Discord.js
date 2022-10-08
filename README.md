@@ -1,3 +1,4 @@
+#Isso é só um exemplo de como pegar o novo avatar novo/antigo do usuário, e tem formas melhores de fazer, porém, isso é só para conhecimento
 ```ts
 import { TextBasedChannel, EmbedBuilder, Colors } from "discord.js";
 
