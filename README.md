@@ -1,4 +1,4 @@
-Isso é só um exemplo de como pegar o avatar novo/antigo do usuário no Discord. É só para conhecimento, tem formas de melhorar sim, mas da para usarem isso como base para algum comando relacionado a isso.
+Isso é só um exemplo de como pegar o avatar novo/antigo do usuário no Discord. É só para conhecimento, tem formas de melhorar sim, mas da para usarem como base para algum comando ou sistema relacionado.
 ```ts
 import { TextBasedChannel, EmbedBuilder, Colors } from "discord.js";
 
